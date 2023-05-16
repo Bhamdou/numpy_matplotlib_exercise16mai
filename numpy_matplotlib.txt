@@ -1,0 +1,8 @@
+This script creates two plots: one for the sine of x and one for the cosine of x. It uses the numpy library to 
+generate the x-values and to compute the sine and cosine values. It then uses the matplotlib library to create the plots.
+
+
+When you run this script, it will display a window with the plot. You will see the sine function plotted as a blue
+line and the cosine function plotted as an orange line.
+The x-axis represents the x-values from 0 to 2*pi, and the y-axis represents the y-values from -1 to 1. There is
+also a legend indicating which line corresponds to which function.
